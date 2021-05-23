@@ -1,0 +1,13 @@
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Sergio Ruiz\source\repos\tp5---2021-RUIZROCK\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache
